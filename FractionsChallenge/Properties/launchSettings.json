@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FractionsChallenge": {
+      "commandName": "Project",
+      "commandLineArgs": "? 2  4/5 3_2/3  4_9/8"
+    }
+  }
+}
